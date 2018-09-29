@@ -1,6 +1,6 @@
-# contactmanager
+<h3>ContactManager Android App Automation</h3>
 <p>There are total three tests developed for testing Contact Manger App</p>
-<ul><li>Verifying UI</li><li>Add Contacts Functionality</li><li>Show invisible contact functionality</li></ul>
+<ul><li>Verifying UI Elements Vissibility</li><li>Add Contacts Functionality</li><li>Show invisible contact functionality</li></ul>
 <h3>Framework Overview</h3>
 <p>The framework is based on page object model where for every page of the application there is a java class holding methods specific to that particular page. The major components of the framework are:</p>
 <ul><li> DriverFactory: singleton Class to intialize the Appium Driver</li> <li> BaseClass: Having all the reusable methods like find element, isElementPresent, GetElementText, SwipeDownAndFindElement etc..</li><li>PageObjects: Containing application pages and locators</li>
