@@ -15,8 +15,8 @@
   <h3>Running Tests:</h3>
   <h4> Prerequisites:</h4>
   <ul>
-  <li>Java should be installed and environment variables should be set</li>
-  <li>Appium Server should be installed</li>
+  <li>Java should be installed on the machine and environment variables should be properly set.</li>
+  <li>Appium Server should be installed.</li>
 </ul>
 <h4>Steps:</h4>
   <ul>
