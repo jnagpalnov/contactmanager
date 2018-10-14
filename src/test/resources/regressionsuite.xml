@@ -1,0 +1,7 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="regressionsuite">
+    <suite-files>
+        <suite-file path="secondTestng.xml"/>
+    </suite-files>
+</suite>
